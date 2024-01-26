@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetJ5_4 Pin=J5-4
+Removed Pin From Net: NetName=NetJ5_5 Pin=J5-5
+Removed Pin From Net: NetName=NetJ5_6 Pin=J5-6
+Change Component Description : Designator=VR2 Old Description=TRIMMER - 3/8 pol. SQ MT CERMET New Description=TRIMMER - 3/8 pol. SQ MT CERMET | Bourn 3296W-1-473
+Added Pin To Net: NetName=NetJ5_5 Pin=J5-4
+Added Pin To Net: NetName=NetJ5_6 Pin=J5-5
+Added Pin To Net: NetName=NetJ5_4 Pin=J5-6
+Change Net Name : Old Net Name=NetJ5_4 New Net Name=NetJ5_6
+Change Net Name : Old Net Name=NetJ5_5 New Net Name=NetJ5_4
+Change Net Name : Old Net Name=NetJ5_6 New Net Name=NetJ5_5
+Added Member To Class: ClassName=SCH Member=Component D19 WP7113SEC
+Added Member To Class: ClassName=SCH Member=Component R19 10K
+Added Member To Class: ClassName=SCH Member=Component R23 10K
+Added Room: Name=SCH
