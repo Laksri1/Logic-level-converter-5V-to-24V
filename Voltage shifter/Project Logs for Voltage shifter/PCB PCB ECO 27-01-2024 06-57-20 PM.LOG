@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=+5 Pin=D13-C
+Removed Pin From Net: NetName=+5 Pin=L-2
+Removed Pin From Net: NetName=+5 Pin=VR1-2
+Removed Pin From Net: NetName=+5 Pin=VR2-3
+Change Component Description : Designator=VR2 Old Description=TRIMMER - 3/8 pol. SQ MT CERMET New Description=TRIMMER - 3/8 pol. SQ MT CERMET | Bourn 3296W-1-473
+Added Component: Designator=SB1(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5 Pin=SB1-1
+Added Pin To Net: NetName=5 Pin=D13-C
+Added Pin To Net: NetName=5 Pin=L-2
+Added Pin To Net: NetName=5 Pin=SB1-2
+Added Pin To Net: NetName=5 Pin=VR1-2
+Added Pin To Net: NetName=5 Pin=VR2-3
+Added Net: Name=5
+Added Member To Class: ClassName=SCH Member=Component J4 75160-156-08LF
+Added Member To Class: ClassName=SCH Member=Component SB1 Component_1
+Added Room: Name=SCH

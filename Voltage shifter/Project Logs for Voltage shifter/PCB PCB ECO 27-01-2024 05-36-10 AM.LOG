@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Net Name : Old Net Name=NetJ?_4 New Net Name=NetJ4_4
+Change Net Name : Old Net Name=NetJ?_5 New Net Name=NetJ4_5
+Change Net Name : Old Net Name=NetJ?_6 New Net Name=NetJ4_6
+Added Pin To Net: NetName=NetJ5_5 Pin=J5-5
+Added Pin To Net: NetName=NetJ5_5 Pin=R26-2
+Added Net: Name=NetJ5_5
+Added Member To Class: ClassName=SCH Member=Component D13 1N5822
+Added Member To Class: ClassName=SCH Member=Component J5 75160-156-08LF
+Added Room: Name=SCH

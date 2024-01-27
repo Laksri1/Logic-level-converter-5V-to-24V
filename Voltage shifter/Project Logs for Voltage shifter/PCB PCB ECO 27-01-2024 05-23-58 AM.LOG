@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=+5 Pin=J4-7
+Removed Pin From Net: NetName=GND Pin=J4-8
+Removed Pin From Net: NetName=NetD1_A Pin=J5-1
+Removed Pin From Net: NetName=NetD3_A Pin=J5-2
+Removed Pin From Net: NetName=NetD5_A Pin=J5-3
+Removed Pin From Net: NetName=NetJ5_4 Pin=J5-4
+Removed Pin From Net: NetName=NetJ5_5 Pin=J5-5
+Removed Pin From Net: NetName=NetJ5_6 Pin=J5-6
+Removed Member From Class: ClassName=SCH Member=J4
+Removed Member From Class: ClassName=SCH Member=J5
+Added Component: Designator=J?(AMPHENOL_75160-156-08LF)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/75160-156-08LF/Amphenol+FCI/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C18905849"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Amphenol ICC (FCI)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "75160-156-08LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/75160-156-08LF/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/75160-156-08LF/Amphenol+FCI/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(AMPHENOL_75160-156-08LF)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/75160-156-08LF/Amphenol+FCI/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C18905849"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Amphenol ICC (FCI)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "75160-156-08LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/75160-156-08LF/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/75160-156-08LF/Amphenol+FCI/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_A Pin=J?-1
+Added Pin To Net: NetName=NetD3_A Pin=J?-2
+Added Pin To Net: NetName=NetD5_A Pin=J?-3
+Added Pin To Net: NetName=NetJ5_4 Pin=J?-4
+Added Pin To Net: NetName=NetJ5_5 Pin=J?-5
+Added Pin To Net: NetName=NetJ5_6 Pin=J?-6
+Added Pin To Net: NetName=+5 Pin=J?-7
+Added Pin To Net: NetName=GND Pin=J?-8
+Change Net Name : Old Net Name=NetJ5_4 New Net Name=NetJ?_4
+Change Net Name : Old Net Name=NetJ5_5 New Net Name=NetJ?_5
+Change Net Name : Old Net Name=NetJ5_6 New Net Name=NetJ?_6
+Added Member To Class: ClassName=SCH Member=Component D3 OVLAW4CB7
+Added Member To Class: ClassName=SCH Member=Component J? 75160-156-08LF
+Added Member To Class: ClassName=SCH Member=Component J? 75160-156-08LF
+Added Room: Name=SCH
