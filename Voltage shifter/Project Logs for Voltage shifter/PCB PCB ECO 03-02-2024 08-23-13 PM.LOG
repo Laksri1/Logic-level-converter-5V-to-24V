@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=+5 Pin=R28-2
+Removed Pin From Net: NetName=+5 Pin=R29-2
+Removed Pin From Net: NetName=+5 Pin=R30-2
+Removed Pin From Net: NetName=+5 Pin=R31-2
+Removed Pin From Net: NetName=+5 Pin=R32-2
+Removed Pin From Net: NetName=+5 Pin=R33-2
+Removed Pin From Net: NetName=+5 Pin=R34-2
+Removed Pin From Net: NetName=+5 Pin=R35-2
+Removed Member From Class: ClassName=SCH Member=D14
+Removed Member From Class: ClassName=SCH Member=D15
+Removed Member From Class: ClassName=SCH Member=D16
+Removed Member From Class: ClassName=SCH Member=D17
+Removed Member From Class: ClassName=SCH Member=D18
+Removed Member From Class: ClassName=SCH Member=D19
+Removed Member From Class: ClassName=SCH Member=D20
+Removed Member From Class: ClassName=SCH Member=D21
+Removed Member From Class: ClassName=SCH Member=R28
+Removed Member From Class: ClassName=SCH Member=R29
+Removed Member From Class: ClassName=SCH Member=R30
+Removed Member From Class: ClassName=SCH Member=R31
+Removed Member From Class: ClassName=SCH Member=R32
+Removed Member From Class: ClassName=SCH Member=R33
+Removed Member From Class: ClassName=SCH Member=R34
+Removed Member From Class: ClassName=SCH Member=R35
+Added Component: Designator=J7(JST_B2B-XH-A(LF)(SN))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B2B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales America Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B2B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=J7-1
+Added Pin To Net: NetName=NetJ7_2 Pin=J7-2
+Added Pin To Net: NetName=NetJ7_2 Pin=Q7-2
+Added Net: Name=NetJ7_2
+Added Member To Class: ClassName=SCH Member=Component J7 B2B-XH-A(LF)(SN)
+Added Room: Name=SCH
