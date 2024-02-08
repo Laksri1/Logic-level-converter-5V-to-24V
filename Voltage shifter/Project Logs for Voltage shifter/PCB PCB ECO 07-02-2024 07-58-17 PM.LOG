@@ -1,0 +1,392 @@
+Removed Pin From Net: NetName=NetD7_A Pin=J3-1
+Removed Pin From Net: NetName=NetD9_A Pin=J3-2
+Removed Pin From Net: NetName=NetD3_A Pin=J4-2
+Removed Pin From Net: NetName=NetD5_A Pin=J4-3
+Removed Pin From Net: NetName=GND Pin=Q1-2
+Removed Pin From Net: NetName=NetJ2_1 Pin=Q1-3
+Removed Pin From Net: NetName=+24 Pin=Q1-4
+Removed Pin From Net: NetName=GND Pin=Q2-2
+Removed Pin From Net: NetName=NetJ2_2 Pin=Q2-3
+Removed Pin From Net: NetName=+24 Pin=Q2-4
+Removed Pin From Net: NetName=GND Pin=Q3-2
+Removed Pin From Net: NetName=NetJ2_3 Pin=Q3-3
+Removed Pin From Net: NetName=+24 Pin=Q3-4
+Removed Pin From Net: NetName=GND Pin=Q4-2
+Removed Pin From Net: NetName=NetJ4_6 Pin=Q4-3
+Removed Pin From Net: NetName=+5 Pin=Q4-4
+Removed Pin From Net: NetName=GND Pin=Q5-2
+Removed Pin From Net: NetName=NetJ4_4 Pin=Q5-3
+Removed Pin From Net: NetName=+5 Pin=Q5-4
+Removed Pin From Net: NetName=GND Pin=Q6-2
+Removed Pin From Net: NetName=NetJ4_5 Pin=Q6-3
+Removed Pin From Net: NetName=+5 Pin=Q6-4
+Removed Pin From Net: NetName=NetD3_A Pin=R5-1
+Removed Pin From Net: NetName=NetD3_C Pin=R6-2
+Removed Pin From Net: NetName=NetD4_A Pin=R8-1
+Removed Pin From Net: NetName=NetD5_A Pin=R9-1
+Removed Pin From Net: NetName=NetD5_C Pin=R10-2
+Removed Pin From Net: NetName=NetD6_A Pin=R12-1
+Removed Pin From Net: NetName=NetD7_A Pin=R13-1
+Removed Pin From Net: NetName=NetD7_C Pin=R14-1
+Removed Pin From Net: NetName=NetD8_A Pin=R16-1
+Removed Pin From Net: NetName=NetD9_A Pin=R17-1
+Removed Pin From Net: NetName=NetD9_C Pin=R18-1
+Removed Pin From Net: NetName=NetD10_A Pin=R20-1
+Removed Pin From Net: NetName=+24 Pin=VR1-1
+Removed Pin From Net: NetName=NetD13_C Pin=VR1-2
+Removed Pin From Net: NetName=GND Pin=VR1-3
+Removed Pin From Net: NetName=NetR25_2 Pin=VR1-4
+Removed Pin From Net: NetName=GND Pin=VR1-5
+Removed Member From Class: ClassName=SCH Member=Q1
+Removed Member From Class: ClassName=SCH Member=Q2
+Removed Member From Class: ClassName=SCH Member=Q3
+Removed Member From Class: ClassName=SCH Member=Q4
+Removed Member From Class: ClassName=SCH Member=Q5
+Removed Member From Class: ClassName=SCH Member=Q6
+Removed Member From Class: ClassName=SCH Member=VR1
+Change Component Footprint: Designator=D13 Old Footprint=DIOAD1990W125L900D530 New Footprint=DIO_SS34
+Change Component Footprint: Designator=D1 Old Footprint=LEDRD254W50D305H520P New Footprint=LED_7012X1
+Change Component Footprint: Designator=D2 Old Footprint=LEDRD254W50D305H520P New Footprint=LED_7012X1
+Change Component Footprint: Designator=D3 Old Footprint=LEDRD254W50D305H520P New Footprint=LED_7012X1
+Change Component Footprint: Designator=D4 Old Footprint=LEDRD254W50D305H520P New Footprint=LED_7012X1
+Change Component Footprint: Designator=D5 Old Footprint=LEDRD254W50D305H520P New Footprint=LED_7012X1
+Change Component Footprint: Designator=D6 Old Footprint=LEDRD254W50D305H520P New Footprint=LED_7012X1
+Change Component Footprint: Designator=D7 Old Footprint=LEDRD254W50D305H520P New Footprint=LED_7012X1
+Change Component Footprint: Designator=D8 Old Footprint=LEDRD254W50D305H520P New Footprint=LED_7012X1
+Change Component Footprint: Designator=D9 Old Footprint=LEDRD254W50D305H520P New Footprint=LED_7012X1
+Change Component Footprint: Designator=D10 Old Footprint=LEDRD254W50D305H520P New Footprint=LED_7012X1
+Change Component Footprint: Designator=D11 Old Footprint=LEDRD254W50D305H520P New Footprint=LED_7012X1
+Change Component Footprint: Designator=D12 Old Footprint=LEDRD254W50D305H520P New Footprint=LED_7012X1
+Change Component Footprint: Designator=Q7 Old Footprint=TO254P1054X469X1930-3 New Footprint=DPAK254P1524X483-3N
+Change Component Comment : Designator=D13 Old Comment=1N5822 New Comment=SS34
+Change Component Comment : Designator=Q7 Old Comment=IRLZ44N New Comment=IRFZ44N
+Change Component Comment : Designator=D1 Old Comment=OVLAW4CB7 New Comment=7012X1
+Change Component Comment : Designator=D2 Old Comment=OVLAW4CB7 New Comment=7012X1
+Change Component Comment : Designator=D3 Old Comment=OVLAW4CB7 New Comment=7012X1
+Change Component Comment : Designator=D4 Old Comment=OVLAW4CB7 New Comment=7012X1
+Change Component Comment : Designator=D5 Old Comment=OVLAW4CB7 New Comment=7012X1
+Change Component Comment : Designator=D6 Old Comment=OVLAW4CB7 New Comment=7012X1
+Change Component Comment : Designator=D7 Old Comment=OVLAW4CB7 New Comment=7012X1
+Change Component Comment : Designator=D8 Old Comment=OVLAW4CB7 New Comment=7012X1
+Change Component Comment : Designator=D9 Old Comment=OVLAW4CB7 New Comment=7012X1
+Change Component Comment : Designator=D10 Old Comment=OVLAW4CB7 New Comment=7012X1
+Change Component Comment : Designator=D11 Old Comment=OVLAW4CB7 New Comment=7012X1
+Change Component Comment : Designator=D12 Old Comment=OVLAW4CB7 New Comment=7012X1
+Change component parameters: Designator = "J2"; Footprint = "JST_B4B-XH-A(LF)(SN)"; UniqueID = "\FYKOVTTW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B4B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C265068"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B4B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3"; Footprint = "JST_B4B-XH-A(LF)(SN)"; UniqueID = "\EVGELHQO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B4B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C265068"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B4B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1"; Footprint = "LED_7012X1"; UniqueID = "\SGNBMWZT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "VCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "7012X1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805 Visual Communications"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7012X1/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2"; Footprint = "LED_7012X1"; UniqueID = "\MSYHGEPD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "VCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "7012X1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805 Visual Communications"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7012X1/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3"; Footprint = "LED_7012X1"; UniqueID = "\EZPESDUC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "VCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "7012X1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805 Visual Communications"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7012X1/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4"; Footprint = "LED_7012X1"; UniqueID = "\JBPYMKUI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "VCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "7012X1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805 Visual Communications"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7012X1/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D5"; Footprint = "LED_7012X1"; UniqueID = "\KJOXDRBP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "VCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "7012X1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805 Visual Communications"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7012X1/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D6"; Footprint = "LED_7012X1"; UniqueID = "\QBWOIGZX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "VCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "7012X1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805 Visual Communications"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7012X1/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D7"; Footprint = "LED_7012X1"; UniqueID = "\HIAJXDUX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "VCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "7012X1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805 Visual Communications"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7012X1/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D8"; Footprint = "LED_7012X1"; UniqueID = "\XPABHGSW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "VCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "7012X1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805 Visual Communications"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7012X1/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D9"; Footprint = "LED_7012X1"; UniqueID = "\ZCPNRYLC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "VCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "7012X1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805 Visual Communications"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7012X1/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D10"; Footprint = "LED_7012X1"; UniqueID = "\UNKUDXGO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "VCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "7012X1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805 Visual Communications"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7012X1/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D11"; Footprint = "LED_7012X1"; UniqueID = "\JKEGHUTK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "VCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "7012X1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805 Visual Communications"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7012X1/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D12"; Footprint = "LED_7012X1"; UniqueID = "\FCUEOVUA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "VCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "7012X1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805 Visual Communications"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7012X1/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q7"; Footprint = "DPAK254P1524X483-3N"; UniqueID = "\WYVJQVZW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/IRFZ44NSTRRPBF/Infineon+Technologies/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "IRFZ44NSTRRPBF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "D2PAK Infineon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/IRFZ44NSTRRPBF/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IRFZ44NSTRRPBF/Infineon+Technologies/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D13"; Footprint = "DIO_SS34"; UniqueID = "\RZARJOYY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SS34/Taiwan+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C8678"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Taiwan Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SS34"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "DO-214AB-2 Taiwan Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SS34/Taiwan+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1(REGULATOR_LM2576-12WU)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C641101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM2576-12WU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-263-5 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LM2576-12WU/Microchip/view-part/2873733/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOIC254P975X460-4N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PC817XI/Sharp+Microelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C3025164"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PC817XI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-4 Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/PC817XI/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PC817XI/Sharp+Microelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOIC254P975X460-4N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PC817XI/Sharp+Microelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C3025164"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PC817XI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-4 Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/PC817XI/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PC817XI/Sharp+Microelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U4(SOIC254P975X460-4N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PC817XI/Sharp+Microelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C3025164"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PC817XI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-4 Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/PC817XI/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PC817XI/Sharp+Microelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U5(SOIC254P975X460-4N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PC817XI/Sharp+Microelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C3025164"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PC817XI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-4 Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/PC817XI/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PC817XI/Sharp+Microelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U6(SOIC254P975X460-4N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PC817XI/Sharp+Microelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C3025164"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PC817XI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-4 Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/PC817XI/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PC817XI/Sharp+Microelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U7(SOIC254P975X460-4N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PC817XI/Sharp+Microelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C3025164"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PC817XI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-4 Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/PC817XI/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PC817XI/Sharp+Microelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD3_A Pin=J3-1
+Added Pin To Net: NetName=NetD7_A Pin=J3-2
+Added Pin To Net: NetName=NetD5_A Pin=J4-2
+Added Pin To Net: NetName=NetD9_A Pin=J4-3
+Added Pin To Net: NetName=NetD5_A Pin=R5-1
+Added Pin To Net: NetName=NetD5_C Pin=R6-2
+Added Pin To Net: NetName=NetD6_A Pin=R8-1
+Added Pin To Net: NetName=NetD9_A Pin=R9-1
+Added Pin To Net: NetName=NetD9_C Pin=R10-2
+Added Pin To Net: NetName=NetD10_A Pin=R12-1
+Added Pin To Net: NetName=NetD3_A Pin=R13-1
+Added Pin To Net: NetName=NetD3_C Pin=R14-1
+Added Pin To Net: NetName=NetD4_A Pin=R16-1
+Added Pin To Net: NetName=NetD7_A Pin=R17-1
+Added Pin To Net: NetName=NetD7_C Pin=R18-1
+Added Pin To Net: NetName=NetD8_A Pin=R20-1
+Added Pin To Net: NetName=+24 Pin=U1-1
+Added Pin To Net: NetName=NetD13_C Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=NetR25_2 Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=NetJ2_1 Pin=U2-3
+Added Pin To Net: NetName=+24 Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=NetJ4_6 Pin=U3-3
+Added Pin To Net: NetName=+5 Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=NetJ2_2 Pin=U4-3
+Added Pin To Net: NetName=+24 Pin=U4-4
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=NetJ4_4 Pin=U5-3
+Added Pin To Net: NetName=+5 Pin=U5-4
+Added Pin To Net: NetName=GND Pin=U6-2
+Added Pin To Net: NetName=NetJ2_3 Pin=U6-3
+Added Pin To Net: NetName=+24 Pin=U6-4
+Added Pin To Net: NetName=GND Pin=U7-2
+Added Pin To Net: NetName=NetJ4_5 Pin=U7-3
+Added Pin To Net: NetName=+5 Pin=U7-4
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U2-1
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=U4-1
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=U6-1
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=U3-1
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=NetR17_2 Pin=U5-1
+Added Net: Name=NetR17_2
+Added Pin To Net: NetName=NetR21_2 Pin=R21-2
+Added Pin To Net: NetName=NetR21_2 Pin=U7-1
+Added Net: Name=NetR21_2
+Added Member To Class: ClassName=SCH Member=Component U1 LM2576-12WU
+Added Member To Class: ClassName=SCH Member=Component U2 PC817XI
+Added Member To Class: ClassName=SCH Member=Component U3 PC817XI
+Added Member To Class: ClassName=SCH Member=Component U4 PC817XI
+Added Member To Class: ClassName=SCH Member=Component U5 PC817XI
+Added Member To Class: ClassName=SCH Member=Component U6 PC817XI
+Added Member To Class: ClassName=SCH Member=Component U7 PC817XI
+Added Room: Name=SCH
