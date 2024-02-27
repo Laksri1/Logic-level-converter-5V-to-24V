@@ -1,0 +1,27 @@
+Change Component Footprint: Designator=J2 Old Footprint=JST_B4B-XH-A(LF)(SN) New Footprint=JST_S4B-XH-A(LF)(SN)
+Change Component Footprint: Designator=J3 Old Footprint=JST_B4B-XH-A(LF)(SN) New Footprint=JST_S4B-XH-A(LF)(SN)
+Change Component Comment : Designator=J3 Old Comment=PLC S_In New Comment=S4B-XH-A(LF)(SN)
+Change Component Comment : Designator=J2 Old Comment=PLC S_Out New Comment=S4B-XH-A(LF)(SN)
+Change component parameters: Designator = "J2"; Footprint = "JST_S4B-XH-A(LF)(SN)"; UniqueID = "\UFJUPGZE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/S4B-XH-A(LF)(SN)/ACT/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C157925"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "J.S.T. Manufacturing Co"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "S4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S4B-XH-A(LF)(SN)/ACT/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3"; Footprint = "JST_S4B-XH-A(LF)(SN)"; UniqueID = "\AWNKZTPD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/S4B-XH-A(LF)(SN)/ACT/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C157925"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "J.S.T. Manufacturing Co"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "S4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S4B-XH-A(LF)(SN)/ACT/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Room: Name=SCH
