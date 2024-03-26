@@ -1,0 +1,30 @@
+Altium Designer Pick and Place Locations
+C:\Users\USER\Documents\Projects\Logic-level-converter-5V-to-24V\LED_Ring\Project Outputs for LED_Ring\Pick Place for pcb.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       02/03/24
+Time:       16:29
+Revision:   e2a0c53adc5d89b69ebd3e76c210c2633600a66e
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"R8","220","TopLayer","RESC2012X65N","34.1630","51.4350","90","RP 2A 51K1 0.1% 15PPM CUT LENGTH"
+"R7","220","TopLayer","RESC2012X65N","34.1630","72.7710","90","RP 2A 51K1 0.1% 15PPM CUT LENGTH"
+"R6","220","TopLayer","RESC2012X65N","54.3560","83.0580","0","RP 2A 51K1 0.1% 15PPM CUT LENGTH"
+"R5","220","TopLayer","RESC2012X65N","73.9140","83.0580","0","RP 2A 51K1 0.1% 15PPM CUT LENGTH"
+"R4","220","TopLayer","RESC2012X65N","84.1540","63.1190","270","RP 2A 51K1 0.1% 15PPM CUT LENGTH"
+"R3","220","TopLayer","RESC2012X65N","84.2010","43.1800","270","RP 2A 51K1 0.1% 15PPM CUT LENGTH"
+"R2","220","TopLayer","RESC2012X65N","64.3890","33.0670","180","RP 2A 51K1 0.1% 15PPM CUT LENGTH"
+"R1","220","TopLayer","RESC2012X65N","44.4500","33.0200","180","RP 2A 51K1 0.1% 15PPM CUT LENGTH"
+"P1","Header 2","TopLayer","HDR1X2","77.8510","33.1470","180","Header, 2-Pin"
+"D8","MP-2835-12D2-40-80","TopLayer","LED_MP-2835-12D2-40-80","34.2100","46.4610","270","LED Midpower Lighting series 2835 White, 4000K, 80 CRI, 37lm 2.69V 180mA 120°"
+"D7","MP-2835-12D2-40-80","TopLayer","LED_MP-2835-12D2-40-80","34.2100","67.7360","270","LED Midpower Lighting series 2835 White, 4000K, 80 CRI, 37lm 2.69V 180mA 120°"
+"D6","MP-2835-12D2-40-80","TopLayer","LED_MP-2835-12D2-40-80","48.9350","83.0580","180","LED Midpower Lighting series 2835 White, 4000K, 80 CRI, 37lm 2.69V 180mA 120°"
+"D5","MP-2835-12D2-40-80","TopLayer","LED_MP-2835-12D2-40-80","68.9400","83.0580","180","LED Midpower Lighting series 2835 White, 4000K, 80 CRI, 37lm 2.69V 180mA 120°"
+"D4","MP-2835-12D2-40-80","TopLayer","LED_MP-2835-12D2-40-80","84.1540","68.2200","90","LED Midpower Lighting series 2835 White, 4000K, 80 CRI, 37lm 2.69V 180mA 120°"
+"D3","MP-2835-12D2-40-80","TopLayer","LED_MP-2835-12D2-40-80","84.2010","48.3420","90","LED Midpower Lighting series 2835 White, 4000K, 80 CRI, 37lm 2.69V 180mA 120°"
+"D2","MP-2835-12D2-40-80","TopLayer","LED_MP-2835-12D2-40-80","69.4430","33.0670","0","LED Midpower Lighting series 2835 White, 4000K, 80 CRI, 37lm 2.69V 180mA 120°"
+"D1","MP-2835-12D2-40-80","TopLayer","LED_MP-2835-12D2-40-80","49.4850","33.0670","0","LED Midpower Lighting series 2835 White, 4000K, 80 CRI, 37lm 2.69V 180mA 120°"
